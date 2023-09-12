@@ -1,0 +1,15 @@
+/Users/macbook/Final/FinalWorkLevanov/bin/Debug/net7.0/FinalWorkLevanov
+/Users/macbook/Final/FinalWorkLevanov/bin/Debug/net7.0/FinalWorkLevanov.deps.json
+/Users/macbook/Final/FinalWorkLevanov/bin/Debug/net7.0/FinalWorkLevanov.runtimeconfig.json
+/Users/macbook/Final/FinalWorkLevanov/bin/Debug/net7.0/FinalWorkLevanov.dll
+/Users/macbook/Final/FinalWorkLevanov/bin/Debug/net7.0/FinalWorkLevanov.pdb
+/Users/macbook/Final/FinalWorkLevanov/obj/Debug/net7.0/FinalWorkLevanov.csproj.AssemblyReference.cache
+/Users/macbook/Final/FinalWorkLevanov/obj/Debug/net7.0/FinalWorkLevanov.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Final/FinalWorkLevanov/obj/Debug/net7.0/FinalWorkLevanov.AssemblyInfoInputs.cache
+/Users/macbook/Final/FinalWorkLevanov/obj/Debug/net7.0/FinalWorkLevanov.AssemblyInfo.cs
+/Users/macbook/Final/FinalWorkLevanov/obj/Debug/net7.0/FinalWorkLevanov.csproj.CoreCompileInputs.cache
+/Users/macbook/Final/FinalWorkLevanov/obj/Debug/net7.0/FinalWorkLevanov.dll
+/Users/macbook/Final/FinalWorkLevanov/obj/Debug/net7.0/refint/FinalWorkLevanov.dll
+/Users/macbook/Final/FinalWorkLevanov/obj/Debug/net7.0/FinalWorkLevanov.pdb
+/Users/macbook/Final/FinalWorkLevanov/obj/Debug/net7.0/FinalWorkLevanov.genruntimeconfig.cache
+/Users/macbook/Final/FinalWorkLevanov/obj/Debug/net7.0/ref/FinalWorkLevanov.dll
